@@ -1,0 +1,6 @@
+This is a test doc create in 2021 Oct 17th
+
+Before I clone the gitskills from github, I can't push my another git repository to gitskills on github.
+I have to clone into my native a gitskills repository, then able to push to remote repository on github.
+
+That's all.
